@@ -1,3 +1,5 @@
+MBP windows10 QT5.12编译成功。
+
 # cangaroo
 open source can bus analyzer
 
